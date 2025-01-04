@@ -6,3 +6,4 @@ twmn-git
 xautolock
 ttf-jetbrains-mono-nerd
 ttf-victor-mono-nerd
+tmux
