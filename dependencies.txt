@@ -1,0 +1,6 @@
+flameshot
+feh
+brightnessctl
+picom
+twmn-git
+xautolock
