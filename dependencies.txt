@@ -10,3 +10,11 @@ tmux
 neovim
 xclip
 npm
+thunar
+gvfs
+xarchiver
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+tumbler
+ristretto
