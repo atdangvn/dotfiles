@@ -39,9 +39,11 @@ vim.api.nvim_set_keymap('n', '<C-l>', '<C-w>l', { noremap = true, silent = true 
 vim.cmd [[
     let g:ale_linters = {
         \ 'javascript': ['eslint'],
+        \ 'c': ['clangd', 'clang-format'],
         \ }
     let g:ale_fixers = {
         \ 'javascript': ['eslint'],
+        \ 'c': ['clang-format'],
         \ }
     let g:ale_fix_on_save = 1
 ]]
